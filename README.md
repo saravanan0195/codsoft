@@ -15,11 +15,19 @@
 - Windows Terminal
 - Visual Studio Code
 - PyCharm
-- 
 </br>
 ### 📝 TASK 1 :
 
 - building a rule-based chatbot
+
+### 📝 TASK 2 :
+
+-building a tic-tac-toe ai game using minimax game theory
+
+### 📝 TASK 5:
+
+-face detection using haar_cascade classifier
+
 
 ### 👨🏽‍💻 HOW TO USE THIS:
 
